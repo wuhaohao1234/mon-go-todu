@@ -1,34 +1,68 @@
-# my-project
+# mon-go-todu
 
-## Project setup
-```
-yarn install
-```
+## 项目所用的技术
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+### 前端:
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+框架:
 
-### Run your tests
-```
-yarn run test
-```
+* vue
 
-### Lints and fixes files
-```
-yarn run lint
-```
+* lodash
 
-### Run your unit tests
-```
-yarn run test:unit
-```
+* vue-router
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* mobx
+
+* localstorage
+
+* web-worker
+
+语言
+
+* typescript
+
+UI框架
+
+* vuetify
+
+### 后端
+
+数据库
+
+* mongodb
+
+后端语言
+
+* nodeJs
+
+框架
+
+* express
+
+### 持续集成工具
+
+travis-ci
+
+### 代码托管工具
+
+github
+
+* master分支与dev分支(由于项目比较小，暂时不去搞多个分支,一个功能一个分支暂时不搞)
+
+### 单元测试
+
+jest
+
+## 克隆该项目注意的:
+
+1. 全局需要安装yarn
+
+2. mongodb
+
+## 日后会变动的:
+
++ vue.config.json
+
+* 代码风格(tslint与vuetify中的lint)
+
