@@ -60,9 +60,14 @@ jest
 
 2. mongodb
 
-## 日后会变动的:
+### 日后会变动的:
 
 + vue.config.json
 
 * 代码风格(tslint与vuetify中的lint)
 
+## 特别注意:
+
+1. 使用者每次克隆master分支的代码
+
+2. 必须时刻关注master分支代码的变动
